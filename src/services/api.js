@@ -1,5 +1,6 @@
 import axios from 'axios';
 
+// Production API URL
 const API_URL = 'https://gold-ecom-backend.onrender.com/api';
 
 const api = axios.create({
